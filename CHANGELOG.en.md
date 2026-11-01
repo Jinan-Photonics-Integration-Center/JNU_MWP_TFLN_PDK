@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-01 — Paperclip code maintenance
+
+- Share axis-aligned segment classification between paperclip variants and reuse bend-type normalization.
+
 ## 2026-10-31 — DRC deep-trench layer
 
 - Map the TFLN DRC deep-trench input to `LayerDeepTrench = input(201, 0)`.
